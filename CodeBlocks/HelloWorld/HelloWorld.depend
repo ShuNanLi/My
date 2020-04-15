@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586346534 source:d:\workspace\codeblocks\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+
+1586346549 d:\workspace\codeblocks\helloworld\define.h
+
